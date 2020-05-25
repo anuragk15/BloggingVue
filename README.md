@@ -1,5 +1,5 @@
 # blogs_page
-
+## Make sure to add your firebase real time database link in main.js file!
 ## Project setup
 ```
 npm install
